@@ -1,0 +1,7 @@
+# Declaration of a variable
+x = 50
+print("Initial value of x:", x)
+
+# Redeclaration of the same variable
+x = 100
+print("Redeclared value of x:", x)
